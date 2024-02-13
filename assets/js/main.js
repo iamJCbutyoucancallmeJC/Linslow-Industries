@@ -37,13 +37,15 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'images/Page 1.png': 'center',
-							
-							'images/Page 6.png': 'center',
+							'images/Page 2.png': 'center',
+							'images/Page 3.png': 'center',
+							'images/Page 4.png': 'center',
+							'images/Page 5.png': 'center',,
 						
 						},
 
 					// Delay.
-						delay: 3000
+						delay: 2000
 
 				};
 
