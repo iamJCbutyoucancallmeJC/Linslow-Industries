@@ -40,7 +40,7 @@
 							'images/Page 2.png': 'center',
 							'images/Page 3.png': 'center',
 							'images/Page 4.png': 'center',
-							'images/Page 5.png': 'center',,
+							'images/Page 5.png': 'center',
 						
 						},
 
